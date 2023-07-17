@@ -237,14 +237,7 @@ section {
     color: #94c328dc;
 }
 
-.home img{
-    position: absolute;
-    top: -75%;
-    left: 109%;
-    width: 50rem;
-    height: 70rem;
-    opacity: 74%;
-}
+
 
 h1 {
     color: var(--main-color);
